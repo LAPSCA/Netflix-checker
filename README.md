@@ -15,9 +15,11 @@ is mass checker emails list with proxy
 - [ ] Multiprocessing.
 - [ ] Account Type (Free, Basic, Standard, Premium)
 # Using :
-1. liuunx , windows Termux >etc : )
-- Move Your list in the script 
+1. liuunx , windows Termux >etc : ) 
+- use vpn or use proxy in your setting 
+- Move Your list (your file txt ) in the script 
 - cp your list.tx $HOME 
+- then move the list in script cp list.txt $Netflix-checker
 - pip3 install progressbar
 - chmod +x *
 - python3 netflix-checker.py your list.txt 
