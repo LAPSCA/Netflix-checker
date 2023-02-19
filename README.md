@@ -2,7 +2,6 @@
 is mass checker emails list with proxy  
 
 ## Key Features
-
 - [x] Python 3.x
 - [x] Simple readable code
 - [x] Mass Accounts checker
@@ -15,9 +14,14 @@ is mass checker emails list with proxy
 - [ ] Graphical user interface.
 - [ ] Multiprocessing.
 - [ ] Account Type (Free, Basic, Standard, Premium)
-#Using :
-*1. liuunx , windows Termux >etc : )
-python3 netflix-checker.py 
+# Using :
+1. liuunx , windows Termux >etc : )
+- Move Your list in the script 
+- cp your list.tx $HOME 
+- pip3 install progressbar
+- chmod +x *
+- python3 netflix-checker.py your list.txt 
+- Then wait to get your account 
 
 **DISCLAIMER**: By using this software, you agree that you are responsible for your actions.
 # LAPSCA TEAM LESINER 2023© 
